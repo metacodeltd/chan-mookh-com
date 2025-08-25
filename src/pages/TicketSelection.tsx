@@ -25,8 +25,8 @@ const TicketSelection = () => {
       tickets: [
         {
           type: "Regular",
-          basePrice: 100,
-          price: "KES 100",
+          basePrice: 1,
+          price: "KES 1",
           description: "Gates open 15:00 hrs",
           available: true
         },
