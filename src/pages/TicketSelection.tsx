@@ -19,14 +19,14 @@ const TicketSelection = () => {
   // Match data
   const matches = {
     "1": {
-      homeTeam: "TBD",
+      homeTeam: "MAD",
       awayTeam: "TBD",
       venue: "Moi Sports Centre Kasarani",
       tickets: [
         {
           type: "Regular",
-          basePrice: 100,
-          price: "KES 100",
+          basePrice: 150,
+          price: "KES 150",
           description: "Gates open 15:00 hrs",
           available: true
         },
